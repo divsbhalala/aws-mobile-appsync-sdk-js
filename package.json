@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "aws-mobile-appsync-sdk-js",
+  "Version":"4.1.3",
   "scripts": {
     "bootstrap": "lerna bootstrap"
   },
